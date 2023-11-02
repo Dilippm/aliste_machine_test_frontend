@@ -17,3 +17,16 @@
   .styled-table tr:nth-child(even) {
     background-color: #f2f2f2;
   }
+  button {
+    background-color: rgb(82, 82, 243);
+    color: white;
+ padding: 10px;
+ margin-bottom: 45px;
+ cursor: pointer;
+  }
+
+  input{
+width: 100px;
+outline: none;
+
+  }
